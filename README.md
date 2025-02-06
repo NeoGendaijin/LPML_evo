@@ -56,13 +56,6 @@ Agents generate nested tags based on the situation, simulating interactions like
 - **Language Processing and Embeddings**: Use UMAP or t-SNE for embedding creation and strategy visualization.
 - **Simulation Experiments**: Conduct simulations in multi-agent environments to observe strategy evolution.
 
-### Submission Details
-
-- **Abstract Registration**: Completed on 1/17
-- **Final PDF Submission**: Due by 2/10
-- **Submission Site**: [JSAI Submission](https://jsai.confit.atlas.jp/presenter/contents)
-- **OverLeaf Project**: [OverLeaf Link](https://www.overleaf.com/project/6780b9710417b84843241d09)
-
 ### Future Work
 
 - Optimize tag generation algorithms.
